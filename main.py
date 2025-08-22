@@ -1,1 +1,1 @@
-\n print(ade)
+print(nigga)
